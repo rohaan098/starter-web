@@ -14,3 +14,4 @@ Sample website with plenty of files for demos
 All righs reserved 2019!
 
 #Please fork this repository
+emergency fixing
