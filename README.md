@@ -11,6 +11,6 @@ Deployment exampple
 Sample website with plenty of files for demos
 
 ###CopyRight
-All righs reserved!
+All righs reserved 2019!
 
 #Please fork this repository
